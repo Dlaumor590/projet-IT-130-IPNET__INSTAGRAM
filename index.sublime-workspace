@@ -1,0 +1,198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Downloads/IDM/Compressé/Add_Defender_Exclusion.cmd",
+		"/C/xampp/htdocs/dashboard/phpinfo.php",
+		"/C/xampp/htdocs/dashboard/index.html",
+		"/C/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/C/xampp/htdocs/index.php",
+		"/C/Bitnami/prestashop-1.7.6.7-0/apps/prestashop/htdocs/js/.htaccess",
+		"/C/Users/Administrator/Local Sites/learning/app/public/.htaccess",
+		"/C/Users/Administrator/Local Sites/learning/app/public/index.php",
+		"/C/Users/Administrator/Local Sites/learning/app/public/wp-blog-header.php",
+		"/C/Users/Administrator/Local Sites/learning/app/public/wp-load.php",
+		"/C/Bitnami/prestashop-1.7.6.7-0/apps/prestashop/htdocs/administration/bootstrap.php",
+		"/C/Users/Administrator/Desktop/CODING/CLEVER PROGRAMMER/PROJETS PERSO/Javascript Course Notes/CHALLENGES/static/css/style.css",
+		"/C/Users/Administrator/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/shingeki no kyojin.exe",
+		"/C/Users/Administrator/Desktop/CLEVER PROGRAMMER/TEACHABLE/PYTHON/turtle_game.py",
+		"/C/Users/Administrator/Desktop/compo.html",
+		"/C/Users/Administrator/Desktop/CLEVER PROGRAMMER/PROJETS PERSO/Javascript Notes/CHALLENGES/static/bootstrap-4.0.0/dist/css/bootstrap.css",
+		"/C/Users/Administrator/Desktop/CLEVER PROGRAMMER/PROJETS PERSO/Javascript Notes/CHALLENGES/static/bootstrap-4.0.0/dist/css/bootstrap.min.css",
+		"/C/Users/Administrator/Desktop/CLEVER PROGRAMMER/PROJETS PERSO/Javascript Notes/CHALLENGES/static/bootstrap-4.0.0/dist/css/bootstrap-reboot.css",
+		"/C/Users/Administrator/Desktop/CLEVER PROGRAMMER/PROJETS PERSO/Javascript Notes/CHALLENGES/static/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css",
+		"/C/Users/Administrator/Desktop/CLEVER PROGRAMMER/PROJETS PERSO/Javascript Notes/CHALLENGES/static/bootstrap-4.0.0/dist/css/bootstrap-grid.css",
+		"/C/Users/Administrator/Desktop/CLEVER PROGRAMMER/PROJETS PERSO/Javascript Notes/CHALLENGES/static/bootstrap-4.0.0/assets/css/docs.min.css",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa17384.3070/bootstrap-reboot.min.css",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa17384.2671/bootstrap-reboot.css",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa17384.49103/bootstrap.min.css",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa17384.2135/bootstrap.css",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa17384.1032/bootstrap-grid.css",
+		"/C/Users/Administrator/Desktop/PYTHON/turtle_game.py",
+		"/C/Users/Administrator/Desktop/clever programmer challenge/amazon clone/amazon-clone/src/Header.js",
+		"/C/Users/Administrator/Desktop/clever programmer challenge/amazon clone/amazon-clone/src/Subtotal.js",
+		"/C/Bitnami/opencart-3.0.3.6-0/apps/opencart/htdocs/admin/index.php",
+		"/C/Games/FIFASetup/fr-FR/fifaconfig.resources.dll",
+		"/C/Users/Administrator/Desktop/HEC/PROJET HEC 1/inscription/inscription.css",
+		"/C/Users/Administrator/Desktop/HEC/PROJET HEC 1/inscription/login.php",
+		"/C/Users/Administrator/Documents/FIFA 19/settings/Career20200730000927"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

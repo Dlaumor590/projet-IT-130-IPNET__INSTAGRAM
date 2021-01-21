@@ -1,0 +1,192 @@
+html {
+  width: 100%;
+  font-family: "Netflix Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  width: 100%;
+  margin: auto;
+  /**/
+}
+
+.backgroundContainer {
+  position: relative;
+}
+
+.backgroundImage {
+  position: absolute;
+  width: 100%;
+  display: block;
+  max-height: 566px;
+}
+
+.backgroundContent {
+  position: relative;
+  width: 100%;
+  color: #fff;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5em;
+  font-size: 1.5rem;
+  padding-top: 0px;
+}
+
+#logo {
+  margin-top: 0px;
+  width: 10%;
+  padding-top: 0px;
+}
+
+#signInButton {
+  background-color: #e50914;
+  border-radius: 2px;
+  padding: 0.4em;
+  background-image: linear-gradient(to bottom, #e50914, #db0510);
+  text-align: center;
+  box-sizing: border-box;
+  border: 0;
+  margin-top: 1em;
+}
+
+#signInButton a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.signInButton {
+  background-color: #e50914;
+  border-radius: 2px;
+  padding: 0.4em;
+  background-image: linear-gradient(to bottom, #e50914, #db0510);
+  text-align: center;
+  box-sizing: border-box;
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+}
+
+.signInButton span {
+  font-family: "Netflix Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.5em;
+}
+
+.Présentation {
+  text-align: center;
+  margin-top: 3em;
+  font-size: 2rem;
+  width: 100%;
+  border-bottom: 8px solid #222;
+}
+
+.registerForm {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  margin: auto;
+}
+
+.registerForm_emailInput {
+  width: 65%;
+  font-size: 1.5rem;
+  height: 2em;
+  box-sizing: border-box;
+  border: solid 1px #8c8c8c;
+  border-radius: 2px;
+  color: #000;
+  padding: 10px 11px;
+  line-height: normal;
+}
+
+.banner {
+  display: flex;
+  border-bottom: 8px solid #222;
+  background-color: #000;
+  color: #fff;
+}
+
+.banner_Text h1 {
+  margin-top: 30%;
+  font-size: 3rem;
+}
+
+.banner_Text h3 {
+  font-size: 1.5rem;
+}
+
+.banner div {
+  text-align: center;
+  width: 100%;
+}
+
+.banner div img {
+  width: 100%;
+  height: 100%;
+}
+
+.faq {
+  background-color: #000;
+  color: #fff;
+}
+
+.faq h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-top: auto;
+  padding-top: 2em;
+}
+.faq ul {
+  margin-bottom: auto;
+}
+
+.faq ul li {
+  font-size: 2.3rem;
+  font-weight: 550;
+}
+
+.faq ul p {
+  font-size: 1.5rem;
+}
+.p {
+  margin-bottom: auto;
+}
+.bottomRegister {
+  background-color: #000;
+  color: #fff;
+}
+.bottomRegister > form > label > h5 {
+  margin-top: auto;
+  padding-top: 5em;
+}
+.footer {
+  text-align: center;
+  font-size: 1.5rem;
+  background: rgba(0, 0, 0, 0.9);
+  color: #fff;
+  padding-top: 1.5em;
+}
+
+.footer > a {
+  text-decoration: none;
+  display: block;
+  margin-bottom: 1.5em;
+  color: #fff;
+}
+
+.footer ul {
+  list-style-type: none;
+  display: block;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer ul > li {
+  display: block;
+}
+
+.footer > ul > li > a {
+  text-decoration: none;
+  color: #fff;
+}

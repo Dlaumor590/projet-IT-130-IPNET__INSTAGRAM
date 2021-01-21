@@ -1,0 +1,154 @@
+html {
+  font-family: "Netflix Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.header {
+  border: 1px solid black;
+  display: block;
+  height: 5em;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+.leftHeader {
+  display: block;
+  display: flex;
+  border: 1px solid black;
+  width: 20%;
+  margin-left: 2em;
+}
+.logoContainer {
+  border: 1px solid black;
+  margin: auto;
+  margin-right: 0px;
+}
+.leftHeaderContent {
+  margin: auto;
+  border: 1px solid black;
+  margin-left: 0px;
+  font-size: 1.2rem;
+  color: white;
+}
+.rightHeader {
+  display: block;
+  display: flex;
+  border: 1px solid black;
+  width: 28%;
+  margin: auto;
+  margin-right: 2em;
+  justify-content: space-between;
+}
+.registerButton span {
+  font-size: 1.2rem;
+}
+.submitButton span {
+  font-size: 1.2rem;
+}
+.registerButton button {
+  background-color: black;
+  box-sizing: border-box;
+  border: 1px solid white;
+  color: white;
+  border-radius: 2px;
+  padding: 0.5em;
+  cursor: pointer;
+}
+.submitButton button {
+  background-color: #e50914;
+  box-sizing: border-box;
+  border: 1px solid #e50914;
+  color: white;
+  border-radius: 2px;
+  padding: 0.5em;
+  cursor: pointer;
+}
+.contentContainer {
+  display: block;
+  display: flex;
+  padding: 5%;
+}
+.content {
+  width: 70%;
+  font-size: 1.2rem;
+}
+.content a {
+  text-decoration: none;
+  color: #e50914;
+}
+.separator {
+  border-bottom: 1px solid gray;
+  padding-bottom: 1.5em;
+}
+.rating {
+  padding: 1em;
+  width: 10em;
+  box-sizing: border-box;
+  border: 1px solid #e50914;
+  background-color: white;
+  cursor: pointer;
+}
+.rating span {
+  font-size: 2rem;
+  color: #e50914;
+}
+.ratingQ {
+  display: inline;
+  margin-right: 2em;
+}
+.pre-footer > p {
+  display: inline;
+  margin-right: 15em;
+}
+.pre-footer-button {
+  padding: 1em;
+  width: 20em;
+  box-sizing: border-box;
+  border: 1px solid grey;
+  background-color: white;
+  cursor: pointer;
+}
+.pre-footer-button,
+.pre-footer-button0 span {
+  color: black;
+  font-size: 1.1rem;
+}
+.pre-footer {
+  background-color: lightgray;
+  font-size: 1.5rem;
+  padding: 1em;
+}
+.pre-footer-button0 {
+  padding: 1em;
+  width: 15em;
+  box-sizing: border-box;
+  border: 1px solid grey;
+  background-color: white;
+  cursor: pointer;
+}
+
+.footer {
+  background-color: black;
+  padding-top: 2em;
+}
+.footer > ul {
+  display: block;
+  display: flex;
+  justify-content: space-around;
+}
+.footer > ul > li {
+  list-style-type: none;
+}
+.footer > ul > li > a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+}
+.anchors > ul > li > a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+}
+.anchors {
+  width: 30%;
+  padding: 2em;
+}

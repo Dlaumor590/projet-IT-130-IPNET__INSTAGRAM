@@ -1,0 +1,109 @@
+html {
+  font-family: "Netflix Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.headerBanner {
+  border: 1px solid black;
+  display: block;
+  width: 100%;
+  height: 3.5em;
+  display: flex;
+  background: black;
+}
+
+.logo {
+  width: 8%;
+}
+.logo img {
+  max-height: 3.5em;
+  cursor: pointer;
+}
+.headerBanner > span {
+  font-size: 1.2rem;
+  text-align: center, justify;
+  padding-top: 1em;
+  color: white;
+}
+#registerButton {
+  font-size: 1.2rem;
+  background: black;
+  color: #ffff;
+  box-sizing: border-box;
+  border: 1px solid white;
+  border-radius: 2px;
+  padding: 0.3em;
+  margin-right: 0.5em;
+  cursor: pointer;
+}
+#loginButton {
+  font-size: 1.2rem;
+  background: #e50914;
+  color: #ffff;
+  box-sizing: border-box;
+  border-color: black;
+  border-radius: 2px;
+  padding: 0.3em;
+  margin-left: 0.5em;
+  cursor: pointer;
+}
+.buttons {
+  margin: auto;
+  margin-left: 45%;
+}
+.contentContainer {
+  width: 85%;
+  margin: auto;
+  margin-top: 2em;
+
+  display: flex;
+}
+.homeLink {
+  display: inline-block;
+  text-decoration: none;
+  color: #e50914;
+  font-size: 1.2rem;
+}
+.content {
+  width: 70%;
+  padding: 2em;
+}
+.content > p {
+  font-size: 1.2em;
+}
+.anchors {
+  width: 30%;
+  font-size: 1.2rem;
+}
+.anchors > ul > li {
+  list-style-type: none;
+}
+.anchors > ul > li > a {
+  text-decoration: none;
+  color: #e50914;
+}
+.anchors > h1 {
+  text-align: center;
+}
+.separator {
+  border-bottom: 1px solid gray;
+  padding-bottom: 1.5em;
+}
+.footer {
+  text-align: center;
+  font-size: 1.5rem;
+  background: rgba(0, 0, 0, 1);
+  color: #fff;
+  padding: 0.2em;
+  padding-top: 1em;
+}
+.footer a {
+  text-decoration: none;
+  color: #fff;
+}
+.footer li {
+  list-style-type: none;
+}
+.footer ul {
+  display: block;
+  display: flex;
+  justify-content: space-around;
+}
